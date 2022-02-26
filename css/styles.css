@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  box-sizing: border-box;
+  background-color: #333;
+  color: orchid;
+  min-height: 100vh;
+  font-family: sans-serif;
+}
+
+a {
+  background-color: cornflowerblue;
+  display: inline-block;
+  padding: 0.5em 1.5em;
+  color: #fff;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 0.3rem;
+}
